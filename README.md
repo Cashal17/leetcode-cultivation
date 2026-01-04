@@ -8,5 +8,6 @@ Progress in mastering Leetcode DSA in Python.
  
 ## Categories 
 * Categories will labeled on each problem according to what LeetCode itself tags them as, as well as what data structure/pattern we find the problem to fit. Common problems within the same category **must** have common patterns in either data structure or usage of data structure that we can reduce the problem down to in order to solve.
+* We can look at problems under the same category by simply searching for that tag in our repository, and all relevant problems with their subfolders should show up.
 * If no patterns can be determined between problems in the same category, **STOP!** You are doing something wrong and are just memorizing solutions instead of learning the patterns and how to match them.
 * **IDENTIFY AND MATCH PATTERNS!!!** 

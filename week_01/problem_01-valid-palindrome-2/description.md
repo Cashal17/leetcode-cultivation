@@ -27,5 +27,5 @@ Output: false
 
 Constraints:
 
-1 <= s.length <= 105\
-s consists of lowercase English letters.
+-   1 <= s.length <= 105
+-   s consists of lowercase English letters.

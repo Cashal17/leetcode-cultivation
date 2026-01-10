@@ -1,9 +1,9 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        # look for biggest diff in indices & heights
         n = len(height)
         l, r = 0, n - 1
         maxAr = 0
+        # start at opposite ends to maximize width
         while l < r:
             currArea = abs(r-l) * min(height[r], height[l])
             maxAr = currArea if currArea >= maxAr else maxAr
